@@ -47,11 +47,32 @@
         },
         {
             "id": 4,
-            "name": "Steve rodgers",
+            "name": "Steve Rodgers",
             "address": "311 Mississippi Ave"
         }
     ],
-    "employees": [],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Jeremy Bakker",
+            "locationId": 1
+        },
+        {
+            "id": 2,
+            "name": "Cassius Clay",
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Travis Barker",
+            "locationId": 2
+        },
+        {
+            "id": 4,
+            "name": "Sean Combs",
+            "locationId": 2
+        }
+    ],
     "locations": [
         {
             "id": 1,
