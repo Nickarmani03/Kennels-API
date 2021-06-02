@@ -1,88 +1,119 @@
 {
-    "animals": [
-        {
-            "id": 1,
-            "name": "Doodles",
-            "breed": "Poodle",
-            "customerId": 1,
-            "locationId": 2
-        },
-        {
-            "id": 2,
-            "name": "Scotty",
-            "breed": "Schnauzer",
-            "customerId": 2,
-            "locationId": 1
-        },
-        {
-            "id": 3,
-            "name": "Spot",
-            "breed": "Dalmation",
-            "customerId": 3,
-            "locationId": 1
-        },
-        {
-            "id": 4,
-            "name": "Zeus",
-            "breed": "German Shepherd",
-            "customerId": 4,
-            "locationId": 2
-        }
-    ],
-    "customers": [
-        {
-            "id": 1,
-            "name": "Hannah Hall",
-            "address": "7002 Chestnut Ct"
-        },
-        {
-            "id": 2,
-            "name": "Tony Stark",
-            "address": "123 Fake St"
-        },
-        {
-            "id": 3,
-            "name": "John Stuart",
-            "address": "357 Indiana St"
-        },
-        {
-            "id": 4,
-            "name": "Steve Rodgers",
-            "address": "311 Mississippi Ave"
-        }
-    ],
-    "employees": [
-        {
-            "id": 1,
-            "name": "Jeremy Bakker",
-            "locationId": 1
-        },
-        {
-            "id": 2,
-            "name": "Cassius Clay",
-            "locationId": 1
-        },
-        {
-            "id": 3,
-            "name": "Travis Barker",
-            "locationId": 2
-        },
-        {
-            "id": 4,
-            "name": "Sean Combs",
-            "locationId": 2
-        }
-    ],
-    "locations": [
-        {
-            "id": 1,
-            "name": "Nashville North",
-            "address": "8422 Johnson Pike"
-        },
-        {
-            "id": 2,
-            "name": "Nashville South",
-            "address": "209 Emory Drive"
-        }
-    ]
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Scotty",
+      "breed": "Schnauzer",
+      "customerId": 2,
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Spot",
+      "breed": "Dalmation",
+      "customerId": 3,
+      "locationId": 1
+    },
+    {
+      "id": 4,
+      "name": "Zeus",
+      "breed": "German Shepherd",
+      "customerId": 4,
+      "locationId": 2
+    },
+    {
+      "name": "Rico Suave",
+      "breed": "St. Bernard",
+      "locationId": 1,
+      "customerId": 1,
+      "id": 5
+    },
+    {
+      "name": "Nick Miller",
+      "breed": "werbwer",
+      "locationId": 1,
+      "customerId": 1,
+      "id": 6
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "address": "7002 Chestnut Ct"
+    },
+    {
+      "id": 2,
+      "name": "Tony Stark",
+      "address": "123 Fake St"
+    },
+    {
+      "id": 3,
+      "name": "John Stuart",
+      "address": "357 Indiana St"
+    },
+    {
+      "id": 4,
+      "name": "Steve Rodgers",
+      "address": "311 Mississippi Ave"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jeremy Bakker",
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "Cassius Clay",
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Travis Barker",
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "name": "Sean Combs",
+      "locationId": 2
+    },
+    {
+      "name": "Ron Swanson",
+      "location": "Nashville",
+      "locationId": 1,
+      "customerId": 3,
+      "id": 5
+    },
+    {
+      "name": "Nick thriller",
+      "locationId": 1,
+      "id": 6
+    },
+    {
+      "name": "wdw",
+      "locationId": 2,
+      "id": 7
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    }
+  ]
 }
