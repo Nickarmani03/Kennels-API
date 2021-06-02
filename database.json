@@ -34,13 +34,6 @@
       "locationId": 1,
       "customerId": 1,
       "id": 5
-    },
-    {
-      "name": "Nick Miller",
-      "breed": "werbwer",
-      "locationId": 1,
-      "customerId": 1,
-      "id": 6
     }
   ],
   "customers": [
@@ -92,16 +85,6 @@
       "locationId": 1,
       "customerId": 3,
       "id": 5
-    },
-    {
-      "name": "Nick thriller",
-      "locationId": 1,
-      "id": 6
-    },
-    {
-      "name": "wdw",
-      "locationId": 2,
-      "id": 7
     }
   ],
   "locations": [
@@ -114,6 +97,11 @@
       "id": 2,
       "name": "Nashville South",
       "address": "209 Emory Drive"
+    },
+    {
+      "name": "wakanda",
+      "address": "123 wakanda st",
+      "id": 3
     }
   ]
 }
